@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AuthGoogle</string>
+    <string name="title_activity_sample2">SampleActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="title_Device">Automated \nTemperature Monitoring</string>
+
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Arcu quisque hendrerit congue fringilla ac.
+        Nisi varius justo, risus vitae aliquet diam suspendisse augue phasellus.</string>
+
+    <string name="app_description">Is the ideal solution for maintaining optimal and consistent
+        temperatures within cold rooms and refrigerated areas.
+        </string>
+
+    <string name="app_description2">Is the ideal solution for maintaining optimal and consistent
+        temperatures within cold rooms and refrigerated areas. Applications include food  and pharmaceutical
+        storage,where safeguarding the integrity, quality, and safety of product is vital.
+        </string>
+</resources>

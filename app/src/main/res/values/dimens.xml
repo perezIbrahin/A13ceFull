@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="round_shape">100dp</dimen>
+
+    <dimen name="image_welcome_w">150dp</dimen>
+    <dimen name="image_welcome_h">150dp</dimen>
+</resources>
